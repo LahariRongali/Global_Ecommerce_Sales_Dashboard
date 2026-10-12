@@ -4,8 +4,6 @@
 
 Interactive Power BI dashboard analyzing 51,000+ order records (2011-2014) across 147 countries to track sales, profit, quantity, and shipping cost.
 
-![Dashboard](images/dashboard.png)
-
 ## Objective
 Understand where a global e-commerce business makes and loses money, by market, category, sub-category, country, and city.
 
