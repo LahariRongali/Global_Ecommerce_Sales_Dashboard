@@ -16,7 +16,7 @@ Understand where a global e-commerce business makes and loses money, by market, 
 - Based on the Global Superstore sample dataset.
 
 ## Tools Used
-Power BI, Microsoft Excel, DAX
+Power BI, Microsoft Excel
 
 ## Dashboard Features
 - KPI cards: Sales (12.64M), Profit (1.47M), Quantity (178K), Shipping Cost (1.35M)
